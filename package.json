@@ -1,0 +1,25 @@
+{
+  "name": "wintergreen",
+  "version": "1.0.0",
+  "description": "A manual Mint-like tool since Mint won't support my favorite credit card. Only intended for users that are OCD about their finances enough to not mind entering everything manually.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnypolite/wintergreen.git"
+  },
+  "author": "Jon Seay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonnypolite/wintergreen/issues"
+  },
+  "homepage": "https://github.com/jonnypolite/wintergreen#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
